@@ -1,7 +1,8 @@
 # Day 2: Clojure
 
 ## Resources Used:
-* [TutorialsPoint](https://www.tutorialspoint.com/csharp/)
+* [ClojureDocs](https://clojuredocs.org)
+* [LearnXinYminutes](https://learnxinyminutes.com/docs/clojure/)
 
 ## Language Experience
 **0** (Limited Experience)
