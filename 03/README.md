@@ -1,4 +1,4 @@
-# Day 2: Lua
+# Day 3: Lua
 
 ## Resources Used:
 * [Programming In Lua](https://www.lua.org/pil/1.html)
