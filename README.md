@@ -7,8 +7,8 @@ My attempt for this year's [Advent of Code](http://adventofcode.com). I will be 
 * **Day 1**: C#
 * **Day 2**: Clojure
 * **Day 3**: Lua
-* **Day 4**: F#
-* **Day 5**: Python
+* **Day 4**: ~~F#~~ Python
+* **Day 5**: Scala
 * **Day 6**: Bash
 * **Day 7**: Ada
 * **Day 8**: D
