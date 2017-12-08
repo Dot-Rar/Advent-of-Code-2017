@@ -10,23 +10,23 @@ My attempt for this year's [Advent of Code](http://adventofcode.com). I will be 
 * **Day 4**: ~~F#~~ Python
 * **Day 5**: Scala
 * **Day 6**: Java
-* **Day 7**: Ada
-* **Day 8**: D
-* **Day 9**: Dart
-* **Day 10**: Swift
+* **Day 7**: D
+* **Day 8**: Ruby
+* **Day 9**: Elixir
+* **Day 10**: R
 * **Day 11**: C++
-* **Day 12**: Elixir
+* **Day 12**: Dart
 * **Day 13**: PHP
-* **Day 14**: Erlang
-* **Day 15**: Ruby
+* **Day 14**: TypeScript
+* **Day 15**: Erlang
 * **Day 16**: Rust
 * **Day 17**: Hack
 * **Day 19**: Solidity
 * **Day 18**: Haskell
 * **Day 20**: C
-* **Day 21**: Java
+* **Day 21**: JavaScript
 * **Day 22**: Perl
-* **Day 23**: JavaScript
+* **Day 23**: Bash
 * **Day 24**: Go
 * **Day 25**: Kotlin
 
